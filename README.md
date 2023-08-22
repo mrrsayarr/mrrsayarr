@@ -12,7 +12,7 @@
 
 
 My Github CV
-<a href = "https://mrrsayarr.github.io/muhammedsayar/index.html"><img src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"></a>
+<a href = "https://mrrsayarr.github.io/muhammedsayar/index.html"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 
 
 Contact:
