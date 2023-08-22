@@ -11,8 +11,9 @@
 
 
 
+My Github CV
+<a href = "https://mrrsayarr.github.io/muhammedsayar/index.html"><img src="https://www.svgrepo.com/show/11803/curriculum-vitae.svg"></a>
 
 
 Contact:
-
 <a href = "https://www.linkedin.com/in/muhammed-sayar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
